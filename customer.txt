@@ -1,0 +1,7 @@
+id,name,city,age
+1,john,ny,22
+2,jim,la,25
+3,mary,ny,30
+4,albert,la,20
+5,samga,ny,18
+6,maria,ny,15
